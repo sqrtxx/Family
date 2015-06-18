@@ -1,0 +1,9 @@
+/Users/miyabi/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20150618-41878-jmkzaw.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
